@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/App/Scenes/Title.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/App/Scenes/Base.unity
+    guid: 294c64b8971c84be0843d1b858426fb7
+  - enabled: 1
+    path: Assets/App/Scenes/Game.unity
+    guid: 8667cbb36168346319d0cf6fbe7b4f7b
+  - enabled: 1
+    path: Assets/App/Scenes/Result.unity
+    guid: 498b47dc2fd124c159b350e05ee1923f
+  - enabled: 1
+    path: Assets/Plugins/Unidux/Examples/SceneTransition/Base.unity
+    guid: 2955624a797bc4a298468737c17d3fd7
+  - enabled: 1
+    path: Assets/Plugins/Unidux/Examples/SceneTransition/Content1.unity
+    guid: 50ee7185339c842f3a66a1f2bea94227
+  - enabled: 1
+    path: Assets/Plugins/Unidux/Examples/SceneTransition/Content2.unity
+    guid: 77a6c2ce0b86e4790bc21f78b7853bce
+  - enabled: 1
+    path: Assets/Plugins/Unidux/Examples/SceneTransition/Footer.unity
+    guid: 58c1ba16c9f534ed4b4a7cc67effef17
+  - enabled: 1
+    path: Assets/Plugins/Unidux/Examples/SceneTransition/Header.unity
+    guid: e44d85cafc02d480cbefc42b9edb28a3
+  - enabled: 1
+    path: Assets/Plugins/Unidux/Examples/SceneTransition/Modal.unity
+    guid: 31c09117f7320408596ae4158673b165
+  m_configObjects: {}
